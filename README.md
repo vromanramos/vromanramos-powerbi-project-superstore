@@ -78,7 +78,7 @@ This project analyzes the Superstore dataset using Power BI to extract insights 
 
 ## 🙋‍♂️ About Me
 
-I'm currently transitioning into the fields of Business Intelligence and Data Analyticswith a background in finance and controlling. This project demonstrates my ability to turn raw data into meaningful insights using Power BI.
+I'm currently transitioning into the fields of Business Intelligence and Data Analytics with a background in finance and controlling. This project demonstrates my ability to turn raw data into meaningful insights using Power BI.
 
 📫 [LinkedIn Profile](https://www.linkedin.com/in/victor-román-ramos-b5267412b)
 

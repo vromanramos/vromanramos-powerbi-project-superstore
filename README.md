@@ -58,7 +58,7 @@ This project analyzes the Superstore dataset using Power BI to extract insights 
 
 ![Dashboard Preview 1](images/overview.png)
 ![Dashboard Preview 2](images/sales_analysis.png)
-![Dashboard Preview 3](images/ticket and discounts.png)
+![Dashboard Preview 3](images/ticket_discount.png)
 ---
 
 ## 📦 Files
